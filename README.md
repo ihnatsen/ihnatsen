@@ -40,7 +40,7 @@ Main Tools:
     <td><img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" widht="50" height="50"><br/>Pandas</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" widht="50" height="50"><br/>MAtplotlib</td>
     <td><img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" widht="50" height="50"><br/>scikit-learn</td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" widht="50" height="50"><br/> SQL Window foo PL/SQL
+    <td><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" widht="50" height="50"><br/> SQL, Window foo, PL/SQL
 
   </tr>
 </table>
