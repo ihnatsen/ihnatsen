@@ -70,9 +70,14 @@ Main Tools:
     <td><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" widht="50" height="50"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" widht="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" widht="50" height="50"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ihnatsen/PythonProjectRunningPace">Console application with database connection, generation of training factor ratings, and achievement system</a></td>
+    <td><a href="https://github.com/ihnatsen/JavaProjectRunningPace">Console application with database connection, generation of training factor ratings, and achievement system</a></td>
     <td><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" widht="50" height="50"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/ihnatsen/TrainingDataBase">Database for practice.</a></td>
+    <td><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" widht="50" height="50"></td>
+  </tr>
+  
 </table>
 </h2>
 
