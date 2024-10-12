@@ -1,4 +1,4 @@
-<h1><mark>Hi there 👋. My name is Ivan.<br/>I'm data enginer from Poland. :bar_chart:.</mark></h1>
+<h1><mark>Hi there 👋. My name is Ivan :bar_chart:.</mark></h1>
 
 <h2>Personal Info. I'm always happy to respond to your message: :link:  
 <table>
