@@ -87,7 +87,7 @@ Main Tools:
   <tr>
     <td><a href="https://www.chess.com/member/thxalot"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpwlfNic.png" widht="50" height="50"><br/>Profile</a></td>
     <td><a href="https://www.codewars.com/users/ihnatsen"><img src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" widht="50" height="50"><br/>Profile</a></td>
-
+ <td><a href="https://leetcode.com/u/ihnatsen/"><img src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" widht="50" height="50"><br/>Profile</a></td>
   </tr>
 </table>
 
