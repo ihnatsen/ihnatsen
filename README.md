@@ -15,7 +15,7 @@
 </td>
 <td>
   <a href="https://www.linkedin.com/in/ivan-ihnatsenkau-b6721129b/">
-    <img src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s900-c-k-c0x00ffffff-no-rj" width="30" height="30"> Linkedin.com</a>
+    <img src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=cITZJnO09yqHBlZ_wKJ4HUFda2YMvLfYDFgPRHLE3mg" width="30" height="30"> Linkedin.com</a>
   </td>
       </tr>
 </table>
