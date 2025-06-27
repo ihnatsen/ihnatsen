@@ -23,12 +23,11 @@
 
 
 <h3>About me... </h3>
-Man, who enjoys programming :grinning: and loves Python :snake:. <br/>Student <a href="https://www.wit.edu.pl/en/academy/about">Academy Wit</a> in the field of Applied Informatics.<br/>With developed:<br/> 
+Man, who enjoys programming :grinning: and loves Java :coffee: and Python :snake:. <br/>Student <a href="https://www.wit.edu.pl/en/academy/about">Academy Wit</a> in the field of Applied Informatics.<br/>With developed:<br/> 
 
 <ul>
   <li>logical thinking [ :a: & :heavy_exclamation_mark::a: = <mark>True</mark> ]</li>
   <li>mathematical abilities [ :two: × :two: = :five: ]</li>
-  <li>algorithmic thinking [ <em>while <mark>False</mark></em>: ]</li>
 </ul>
 
 <h2>
@@ -64,8 +63,6 @@ Main Tools:
     <td>Name of project</td>
     <td>Tools</td>
   </tr>
-
-https://github.com/ihnatsen/WarsawParkInfo
   <tr>
     <td><a href="https://github.com/ihnatsen/REST_API_AND_SELENIUM">Selenium practice websites and REST API of Swagger Petstore</a></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXu8NnBJh1xU1MUXTNbs4ElxdVwGb2hsA-w&s" widht="50" height="50"></td>
